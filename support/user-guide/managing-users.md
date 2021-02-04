@@ -3,7 +3,7 @@ title: "User Management"
 description: "How to add users to your SparkPost account and manage their permissions."
 ---
 
-You can invite members of your team to join your SparkPost account. Each user will have a role that defines what they have access to. There are four roles you can chose from when inviting a new user:
+You can invite the members of your team to join your SparkPost account. Each user will have a role that defines what they have access to. There are four roles you can chose from when inviting a new user:
 
 **Admin**: Full access user. Admins have all permissions available and are the only users that can manage users, security, and billing settings.
 
